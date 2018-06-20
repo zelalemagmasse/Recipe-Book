@@ -49,7 +49,10 @@ jumbotron-fluid
 .h1 {
     font-family: 'Norican', cursive;
 }
-.menuList{
+.direction{
+    font-family: 'Anton', sans-serif;
+}
+.menuList {
 height: 200px;
     width: 200px;
 }
@@ -57,3 +60,9 @@ height: 200px;
 
     background-color: transparent;
 }
+.footer-images img{
+    vertical-align:bottom;
+    border:0;
+}
+
+
